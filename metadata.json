@@ -1,0 +1,5 @@
+{
+  "name": "Mesa POS",
+  "description": "A real-time restaurant SaaS prototype connecting Customers, Kitchen, and Waiters with stateful logic and gamification.",
+  "requestFramePermissions": []
+}
